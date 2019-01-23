@@ -41,7 +41,7 @@ Our naming convention for ongoing projects: **YYYYc-###**
 - 2017W-0xx
 - ?
 
-## Where is our data & information?
+## Where are our data & information?
 
 1. [Box](box.illinois.edu)  Need to clean this out some, including moving PII/PHI into [Box Health Data Folders](https://hipaa.uillinois.edu/protecting-phi-with-box-health-data-folders/). Notice that almost all spreadsheets and working documents (vs scanned pdfs, for example) have a date in the title
 2. [REDCap](http://redcap.healthinstitute.illinois.edu) currently transitioning for the Polish/Polish-American project; plan to move GAMES there soon
