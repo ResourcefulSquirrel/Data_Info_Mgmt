@@ -46,6 +46,12 @@ Our naming convention for ongoing projects: **YYYYc-###**
 1. [Box](box.illinois.edu)  Need to clean this out some, including moving PII/PHI into [Box Health Data Folders](https://hipaa.uillinois.edu/protecting-phi-with-box-health-data-folders/). Notice that almost all spreadsheets and working documents (vs scanned pdfs, for example) have a date in the title
 2. [REDCap](http://redcap.healthinstitute.illinois.edu) currently transitioning for the Polish/Polish-American project; plan to move GAMES there soon
 3. [Slack](clancylab.slack.com) Communication, posting information (*not research data*), asking questions, etc.
+	- Add yourself to channels
+	- When you have a question/comment for a specific person, DM them
+	- When responding to a post, make a Thread
+	- You can tag specific people using @[their username] vs. @channel or @everyone
+	- The goal is to share information fairly quickly, without accidentally spamming everyone
+	- You can adjust your notifications, and you should expect others have done so as well
 4. [Trello](trello.com) More task-specific detailed lists of work to do.
 
 
