@@ -16,13 +16,13 @@ date: 2019-01-23
 - Spreadsheets
     + Should include PII in the filename if it has personally identifiable information in it
     + Should have a README tab in the .xlsx version, where you list the variables, units, etc.
-    + Should *not* have calculations or analyses in the data-storage/data-entry sheet -- make a copy, save it with a different name in another directory where you are working on your project
+    + Should *not* have calculations or analyses in the data-storage/data-entry sheet -- make a copy, save it with a different name in another directory (computer folder) where you are working on your project
     + Should have the date it was last saved or updated in the filename
     + Should export it to a .csv version (with date in file name) for analysis
     + **BEWARE** Excel likes to "help" reformat stuff for you, especially dates and anything that Excel thinks might be a date. This makes problems in the data set, and can be avoided (ask Katie for more info about that later)
 
 ## Our major projects
-Our naming convention for ongoing projects: **YYYYc-###**
+Our naming convention for ongoing projects: **YYYYc-###** aka year[character]-(numbers)
 
 ### Polish/Polish American project (incl Sto Lat Health & Hormones)
 - 2014P-0xx Pilot data collected in Poland in field season of 2014 for Kate's endometrial health project. Includes physical activity data, physical activity data, hormones for a menstrual cycle, endometrial thickness, blood sample, anthropometry, blood spots
